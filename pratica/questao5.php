@@ -14,5 +14,11 @@ $numero = 3;
     else{
         echo $numero . " não é múltiplo de nenhum dos dois";
     }
+<<<<<<< HEAD
+=======
+
+
+}
+>>>>>>> c1a422330fe60fe14e22d8449b57fe6c340d6603
 
 ?>
